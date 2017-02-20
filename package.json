@@ -2,5 +2,17 @@
   "name": "my-clarifai",
   "version": "0.0.1",
   "dependencies": {
+    "assert-plus": "~1.0.0",
+    "clarifai": "^2.1.3-dev"
+  },
+  "devDependencies": {
+    "jshint": "~2.9.0",
+    "grunt": "~0.4.5",
+    "grunt-prompt": "~1.3.3",
+    "grunt-contrib-jshint": "~0.11.0",
+    "grunt-config-dir": "~0.3.2",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-exec": "~0.4.6",
+    "grunt-bg-shell": "~2.3.1"  	
   }
 }
